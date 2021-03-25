@@ -1,0 +1,9 @@
+{
+  "name": "@foo/workspace-b",
+  "main": "index.js",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "@foo/workspace-a": "0.0.1"
+  }
+}

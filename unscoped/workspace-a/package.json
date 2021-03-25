@@ -1,0 +1,6 @@
+{
+  "name": "workspace-a",
+  "main": "index.js",
+  "version": "0.0.1",
+  "type": "module"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "workspaces": [
+    "workspace-a",
+    "workspace-b"
+  ],
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "workspace-b": "0.0.1"
+  }
+}
